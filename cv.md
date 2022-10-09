@@ -29,3 +29,20 @@ let temperature = Math.round(response.data.main.temp);
 currTemp.innerHTML = `${temperature}`;
 }
 ```
+
+## Education and courses:
+
+- International University of Finance, Specialist
+- National university of railway transport, Master
+- JS, HTML, CSS course in Prometeus
+- Frontend course in SheCodes
+- JS, HTNL, CSS video-courses ITVDN
+- SQL course
+
+## Work experience:
+
+- Engineer of railway transport, 2006-2022
+
+## Language:
+
+- English - B1
