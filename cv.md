@@ -18,3 +18,14 @@ _ I want to learn a new profession and find a job I love. I want to become a fro
 - Git, GitHub
 - SQL
 - VS Code
+
+## Code example:
+
+```
+function showWeather(response) { let city = response.data.name; let cityChoose = document.querySelector("#city"); cityChoose.innerHTML =`${city}`;
+
+let currTemp = document.querySelector("#temperature");
+let temperature = Math.round(response.data.main.temp);
+currTemp.innerHTML = `${temperature}`;
+}
+```
